@@ -20,7 +20,6 @@ UI Designs:
 Inspirations:
 
 - <https://ikea.co.id>
--
 
 ## Architecture & Tech Stack
 
